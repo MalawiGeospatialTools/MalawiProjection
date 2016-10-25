@@ -1,0 +1,19 @@
+139337=PROJCS["UTM_Zone_36_Southern_Hemisphere", \
+  GEOGCS["GCS_unnamed ellipse", \
+    DATUM["D_unknown", \
+      SPHEROID["Unknown", 6378249.145, 293.466300000007], \
+      TOWGS84[-161, -73, -317, 0, 0, 0, 0]], \
+    PRIMEM["Greenwich", 0], \
+    UNIT["degree", 0.017453292519943295], \
+    AXIS["Lon", EAST], \
+    AXIS["Lat", NORTH]], \
+  PROJECTION["Transverse_Mercator"], \
+  PARAMETER["central_meridian", 33], \
+  PARAMETER["latitude_of_origin", 0], \
+  PARAMETER["scale_factor",0.9996], \
+  PARAMETER["false_easting", 500000], \
+  PARAMETER["false_northing", 10000000], \
+  UNIT["Meter", 1], \
+  AXIS["x", EAST], \
+  AXIS["y", NORTH], \
+  AUTHORITY["EPSG","139337"]]
